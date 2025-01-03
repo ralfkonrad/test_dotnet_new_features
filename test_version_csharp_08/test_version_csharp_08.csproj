@@ -20,5 +20,9 @@
   <ItemGroup>
     <ProjectReference Include="..\version_csharp_08\version_csharp_08.csproj" />
   </ItemGroup>
+  
+  <PropertyGroup>
+    <RootNamespace>version_csharp_08</RootNamespace>
+  </PropertyGroup>
 
 </Project>

@@ -1,6 +1,6 @@
-﻿namespace test_version_csharp_08;
+﻿namespace version_csharp_08;
 
-public class Tests
+public class MyDateTimeTests
 {
     [SetUp]
     public void Setup()
