@@ -1,4 +1,6 @@
-﻿namespace version_csharp_08;
+﻿using System;
+
+namespace version_csharp_08;
 
 public record MyDateTime(DateTime DateTime)
 {

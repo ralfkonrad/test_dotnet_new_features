@@ -1,4 +1,6 @@
-﻿namespace version_csharp_08;
+﻿using NUnit.Framework;
+
+namespace version_csharp_08;
 
 public class MyDateTimeTests
 {
